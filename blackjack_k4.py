@@ -1,6 +1,6 @@
 #
 #
-#
+# New version
 import cards, games
 
 class BJ_Card(cards.Card):
@@ -167,6 +167,7 @@ def main():
 
 
 main()
+
 input("\n\nPress the enter key to exit.")
 
 
